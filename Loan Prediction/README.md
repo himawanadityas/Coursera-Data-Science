@@ -1,1 +1,1 @@
-
+Coursera machine learning with python final project. this project using machine learning to predict loan application. I using 4 machine algorithms such as KNN, Decision Tree, Support Vector Machine, and Logistic Regression to predicting loan application
